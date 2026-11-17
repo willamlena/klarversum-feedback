@@ -1,15 +1,10 @@
-KLARVERSUM – AKTUELLE KOMPAKTE FASSUNG
+KLARVERSUM – SCHULSTUFE ALS ÖFFENTLICHE BEWERTUNGSANGABE
 
 1. ZIP entpacken.
 2. GitHub-Repository willamlena/klarversum-feedback öffnen.
-3. Add file → Upload files: die neue index.html in die oberste Ebene hochladen und mit Commit changes speichern. Die bisherige index.html wird ersetzt.
-4. Die vorhandene CNAME-Datei beibehalten. Nach der Bereitstellung die Website neu laden.
+3. Add file → Upload files: nur index.html in die oberste Ebene hochladen und mit Commit changes speichern.
+4. Die bestehende CNAME-Datei beibehalten. Nach der Bereitstellung die Seite neu laden.
 
-Enthalten sind alle bisherigen Änderungen, zusätzlich:
-• Vollständige Rollenbezeichnung „Elternteil / Erziehungsberechtigte Person“.
-• Unter vollständigem Namen und Schülernamen nur „wird nicht veröffentlicht.“.
-• „Gründer von Klarversum“ in der Zeile unter Ramon.
-• Die Zeile rechts oben auf derselben Texthöhe wie „Nachhilfe“ links oben.
-• Hellere nicht ausgewählte Sterne; dunkelgrüner Rahmen und 10 Prozent Füllung für ausgewählte Sterne.
-
-Formularlogik, interner Datenschutz und E-Mail-Versand sind unverändert.
+Das Feld Schulstufe erscheint weiterhin nur bei Schüler:in / Student:in. Beispiel: „z. B. 7. Klasse AHS“. Der Hinweis „wird nicht veröffentlicht“ wurde nur bei diesem Feld entfernt.
+Die Schulstufe gehört jetzt zu den öffentlichen Angaben und erscheint auch in der Bewertungsvorschau. Die Einwilligung, Datenschutzhinweise und E-Mail-Kennzeichnung wurden entsprechend angepasst. Vollständiger Name, Schülername und Verbesserungsvorschläge bleiben intern.
+Die neue Freigabe gilt für Einsendungen mit dem aktualisierten Einwilligungstext (v4). Schulstufen aus älteren Einsendungen mit ausschließlich interner Freigabe nicht automatisch veröffentlichen. Alle bisherigen Anpassungen sind enthalten.
