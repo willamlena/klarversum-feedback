@@ -1,0 +1,10 @@
+KLARVERSUM – LOGO OPTISCH AM KLEINEN m AUSGERICHTET
+
+1. ZIP entpacken.
+2. GitHub-Repository willamlena/klarversum-feedback öffnen.
+3. Add file → Upload files: nur index.html direkt in die oberste Ebene hochladen und mit Commit changes speichern. Die vorhandene index.html wird ersetzt.
+4. Die vorhandene CNAME-Datei beibehalten. Nach der Bereitstellung bewertung.klarversum.at neu laden.
+
+Nachhilfe und der Trennstrich sind an der sichtbaren Mitte des kleinen m von Klarversum ausgerichtet. Die Werte sind aus den eingebetteten Schriftarten abgeleitet und für Desktop und Handy angepasst.
+Der grüne Balken zeigt „vielen dank für dein Feedback!“ mit einem kleinen einfarbigen Herz in der Schriftfarbe.
+Alle zuletzt gewünschten Text- und Formularänderungen sind enthalten. Die internen Angaben (vollständiger Name, Schülername und Verbesserungsvorschläge) bleiben getrennt von der öffentlichen Bewertung. Der Web3Forms-Schlüssel ist eingetragen.
