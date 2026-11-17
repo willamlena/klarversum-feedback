@@ -1,0 +1,39 @@
+KLARVERSUM – BEWERTUNGSFORMULAR AUF GITHUB PAGES
+Stand: 17. November 2026
+
+IM PAKET
+• index.html: vollständiges Formular, Gestaltung, Schriftarten, Versand und Datenschutzhinweise in EINER Datei.
+• ANLEITUNG.txt: diese Anleitung. Sie muss nicht hochgeladen werden.
+Der öffentliche Web3Forms-Formularschlüssel ist bereits eingetragen. Es gibt keine Abhängigkeiten zu installieren.
+
+HOCHLADEN
+1. ZIP-Datei entpacken.
+2. Auf github.com anmelden. Über „+“ → „New repository“ ein Repository namens „klarversum-bewertungen“ erstellen. Für GitHub Free „Public“ wählen. „Add README“ einschalten und „Create repository“ anklicken.
+3. Im Repository unter „Code“ → „Add file“ → „Upload files“ die Datei index.html hochladen und mit „Commit changes“ speichern. Die Datei muss direkt auf der obersten Ebene liegen, neben der README – nicht in einem Unterordner. Die ZIP selbst nicht hochladen.
+4. „Settings“ → „Pages“ öffnen. Unter „Build and deployment“ als „Source“ die Option „Deploy from a branch“ wählen. Als Branch „main“ und als Ordner „/(root)“ auswählen, dann „Save“.
+5. Die Bereitstellung kann einige Minuten dauern. Auf derselben Pages-Seite erscheint der Website-Link. Er sieht normalerweise so aus:
+   https://DEIN-GITHUB-NAME.github.io/klarversum-bewertungen/
+   Diesen tatsächlichen Link von GitHub kopieren. Klient:innen brauchen keinen GitHub-Account.
+
+VOR DEM ERSTEN VERSCHICKEN
+• Im Web3Forms-Konto prüfen, dass der verwendete Schlüssel tatsächlich mit klarversum@gmail.com verbunden und die Empfängeradresse bestätigt ist. Die Adresse lässt sich aus dem Schlüssel nicht überprüfen.
+• Auf der veröffentlichten Seite eine eigene Bewertung mit Überschrift „TEST – bitte ignorieren“ absenden. Ankunft in Gmail und gegebenenfalls im Spamordner prüfen. Die Erfolgsanzeige bestätigt die Annahme durch den Versanddienst; sie beweist keine Zustellung im Posteingang. Die Testbewertung anschließend löschen.
+• Einmal ohne Veröffentlichungsfreigabe und einmal mit Freigabe ansehen: Nur Sterne, Überschrift, Text und Anzeigename sind zur Veröffentlichung vorgesehen. Der vollständige Name bleibt intern. Es erscheint nichts automatisch öffentlich; du übernimmst freigegebene Bewertungen später selbst auf die Website.
+• Die ergänzten Datenschutz- und Anbieterangaben durchlesen. Im Web3Forms-Konto die Aufbewahrung möglichst kurz einstellen und dessen Auftragsverarbeitungsbedingungen prüfen. Web3Forms kann Einsendungen zusätzlich zur E-Mail speichern. Änderungen an Speicherfristen bei Bedarf im Datenschutztext in index.html berücksichtigen. Bei Minderjährigen die Erziehungsberechtigten-Zustimmung angemessen prüfen: Das Formular enthält eine Erklärung, aber keine Identitätsprüfung. Der Betreiber muss die beschriebenen Löschregeln selbst umsetzen.
+
+DEINE DOMAIN
+Für den ersten Kundenlink reicht die GitHub-Adresse. „Custom domain“ zunächst leer lassen. klarversum.at muss dafür nicht umgestellt werden. Später lässt sich dieselbe index.html etwa unter /bewertung/ in deine Homepage einfügen. Das Paket legt keine Domain-Zuordnung fest.
+
+TEXT ÄNDERN
+index.html mit einem einfachen Texteditor öffnen, Text ändern und die Datei erneut hochladen. Die Datei verwendet eine Content Security Policy mit Prüfsummen für CSS und JavaScript: Bei Änderungen INNERHALB der <style>- oder <script>-Blöcke müssen auch deren SHA-256-Prüfsummen im CSP-Meta-Tag neu berechnet werden. Reine Änderungen am sichtbaren HTML außerhalb dieser Blöcke beeinflussen die Prüfsummen nicht. Bei Änderungen an Einwilligungstexten auch deren Mail-Nachweis und Fassung aktualisieren. Du kannst mir die Datei für weitere Änderungen schicken.
+
+GEPRÜFT
+Formularlogik, Einwilligungen, Versandfehler und die Integrität der eingebetteten Dateien wurden lokal geprüft. Die Netzwerkantworten in den Tests waren simuliert. Es wurde keine echte Test-E-Mail versendet. Eine Browserprüfung war in dieser Umgebung nicht verfügbar. Bitte die oben genannte Testbewertung auf GitHub Pages durchführen.
+
+OFFIZIELLE HILFE
+GitHub Pages veröffentlichen:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+GitHub-Pages-Adressen und Hosting:
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+Web3Forms-Datenschutz und Verarbeitungsbedingungen:
+https://web3forms.com/privacy
